@@ -1,16 +1,18 @@
-### Hi there 👋
+### Добро пожаловать 👋
 
-<!--
-**vedmitt/vedmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+Меня зовут Вероника, разработчица из России.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Интересуюсь разработкой веб приложений и современными технологиями.
+* Сейчас в активном поиске работе <a href="https://hh.ru/resume/53dd296cff08867ece0039ed1f376879746a48" target="_blank">**мое резюме**</a>
+___
+
+**Languages and Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,nodejs,express,python,django,nginx,docker,git)](https://skillicons.dev)
+
+___
+
+<p align="center"><b>My contacts</b><br>
+<a href="mailto:v.dmitrieva14@mail.ru">v.dmitrieva14@mail.ru</a></p>
